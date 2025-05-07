@@ -1,7 +1,14 @@
-# my_shop
+#   ELITEmart
+A Flutter-based e-commerce app with Firebase backend.
 
-A new Flutter project.
-
+Features
+User authentication
+Product browsing
+Cart and order management
+Setup
+Clone the repo
+Run `flutter pub get`
+Configure Firebase" > README.md git add README.md git commit -m "Add README" git push origin main
 ## Getting Started
 
 This project is a starting point for a Flutter application.
